@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": "2010",
+    "color": true,
+    "duration": 148
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "year": "1994",
+    "color": true,
+    "duration": 142
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "year": "2008",
+    "color": true,
+    "duration": 152
+  },
+  {
+    "id": 4,
+    "title": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "year": "1994",
+    "color": true,
+    "duration": 142
+  },
+  {
+    "id": 5,
+    "title": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "year": "1972",
+    "color": true,
+    "duration": 175
+  },
+  {
+    "id": 6,
+    "title": "Schindler's List",
+    "director": "Steven Spielberg",
+    "year": "1993",
+    "color": false,
+    "duration": 195
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "year": "1999",
+    "color": true,
+    "duration": 136
+  },
+  {
+    "id": 8,
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "year": "1994",
+    "color": true,
+    "duration": 154
+  },
+  {
+    "id": 9,
+    "title": "Fight Club",
+    "director": "David Fincher",
+    "year": "1999",
+    "color": true,
+    "duration": 139
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "director": "Peter Jackson",
+    "year": "2001",
+    "color": true,
+    "duration": 178
+  },
+  {
+    "id": 11,
+    "title": "The Lord of the Rings: The Return of the King",
+    "director": "Peter Jackson",
+    "year": "2003",
+    "color": true,
+    "duration": 201
+  },
+  {
+    "id": 12,
+    "title": "The Lord of the Rings: The Two Towers",
+    "director": "Peter Jackson",
+    "year": "2002",
+    "color": true,
+    "duration": 179
+  },
+  {
+    "id": 13,
+    "title": "Star Wars: Episode IV - A New Hope",
+    "director": "George Lucas",
+    "year": "1977",
+    "color": true,
+    "duration": 121
+  },
+  {
+    "id": 14,
+    "title": "Goodfellas",
+    "director": "Martin Scorsese",
+    "year": "1990",
+    "color": true,
+    "duration": 146
+  },
+  {
+    "id": 15,
+    "title": "The Silence of the Lambs",
+    "director": "Jonathan Demme",
+    "year": "1991",
+    "color": true,
+    "duration": 118
+  },
+  {
+    "id": 16,
+    "title": "Se7en",
+    "director": "David Fincher",
+    "year": "1995",
+    "color": true,
+    "duration": 127
+  },
+  {
+    "id": 17,
+    "title": "The Usual Suspects",
+    "director": "Bryan Singer",
+    "year": "1995",
+    "color": true,
+    "duration": 106
+  },
+  {
+    "id": 18,
+    "title": "Saving Private Ryan",
+    "director": "Steven Spielberg",
+    "year": "1998",
+    "color": true,
+    "duration": 169
+  },
+  {
+    "id": 19,
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "year": "2000",
+    "color": true,
+    "duration": 155
+  },
+  {
+    "id": 20,
+    "title": "The Green Mile",
+    "director": "Frank Darabont",
+    "year": "1999",
+    "color": true,
+    "duration": 189
+  },
+  {
+    "id": 21,
+    "title": "Inglourious Basterds",
+    "director": "Quentin Tarantino",
+    "year": "2009",
+    "color": true,
+    "duration": 153
+  },
+  {
+    "id": 22,
+    "title": "The Departed",
+    "director": "Martin Scorsese",
+    "year": "2006",
+    "color": true,
+    "duration": 151
+  },
+  {
+    "id": 23,
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": "2006",
+    "color": true,
+    "duration": 130
+  },
+  {
+    "id": 24,
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "year": "2000",
+    "color": true,
+    "duration": 113
+  },
+  {
+    "id": 25,
+    "title": "The Lion King",
+    "director": "Roger Allers, Rob Minkoff",
+    "year": "1994",
+    "color": true,
+    "duration": 88
+  },
+  {
+    "id": 26,
+    "title": "The Terminator",
+    "director": "James Cameron",
+    "year": "1984",
+    "color": true,
+    "duration": 107
+  },
+  {
+    "id": 27,
+    "title": "Terminator 2: Judgment Day",
+    "director": "James Cameron",
+    "year": "1991",
+    "color": true,
+    "duration": 137
+  },
+  {
+    "id": 28,
+    "title": "The Sixth Sense",
+    "director": "M. Night Shyamalan",
+    "year": "1999",
+    "color": true,
+    "duration": 107
+  },
+  {
+    "id": 29,
+    "title": "Django Unchained",
+    "director": "Quentin Tarantino",
+    "year": "2012",
+    "color": true,
+    "duration": 165
+  }
+]
